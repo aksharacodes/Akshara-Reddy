@@ -1,4 +1,4 @@
-# Hi, I'm <Your Name> 👋
+# Hi, I'm Akshara Reddy 👋
 
 **AI Engineer focused on LLM and GenAI applications.** I build retrieval, agent, and evaluation systems, with real-world experience in **banking** and **healthcare**.
 
